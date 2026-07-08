@@ -129,7 +129,7 @@ http://127.0.0.1:5000
 
 ## Author
 
-Aishwarya Yenugonda
+Aiswarya Yenugonda
 
 B.Tech CSE (AI)
 
